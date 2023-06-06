@@ -55,3 +55,9 @@
   - Forecasting energy consumption based on variables like weather conditions, time of day, and historical usage patterns.
 
 ![Random_forest](https://github.com/Swarnlataaa/Regression_modelling/blob/main/Images/random_forest.png)
+
+
+- `Ridge Regression:` Ridge regression is a regularized form of linear regression that helps prevent overfitting by adding a penalty term to the loss function. It is used when there is multicollinearity among the independent variables.
+- `Lasso Regression:` Similar to ridge regression, lasso regression also adds a penalty term, but it uses the L1 norm. It is useful for feature selection as it can shrink the coefficients of irrelevant variables to zero.
+- `Logistic Regression:` Logistic regression is used when the dependent variable is binary or categorical. It models the probability of an event occurring and helps in classification tasks.
+- `Elastic Net Regression:` Elastic net regression combines the penalties of ridge and lasso regression. It is used when there are many correlated variables and feature selection is required.
